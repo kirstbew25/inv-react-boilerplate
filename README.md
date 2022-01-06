@@ -6,11 +6,13 @@ Mixture of create-react-app and frontend masters tutorial.
 
 `fin project create`
 
-Custom git repo using this repo or use git clone.
+Custom git repo using this repo.
 
-`fin up`
+OR use git clone and run:
 
-**Note:** Run from ./docroot
+`fin init`
+
+**Note:** Run npm from ./docroot
 
 ### Install node modules
 
