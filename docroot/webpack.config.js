@@ -5,11 +5,14 @@ module.exports = {
   entry: path.join(__dirname, "src", "index.js"),
   output: {
     path: path.resolve(__dirname, "public"),
+    filename: 'index.js',
+    publicPath: '/',
   },
   devServer: {
     allowedHosts: [
       '.docksal'
-    ]
+    ],
+    historyApiFallback: true,
   },
   watchOptions: {
     poll: 1000
