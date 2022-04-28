@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom';
 import './index.scss';
 import logo from './logo.svg';
 
+// EXAMPLE IMPORT of FIREBASE:
+// import { db, auth } from './services/firebase';
+
 const App = () => {
   return (
     <div className="App">
