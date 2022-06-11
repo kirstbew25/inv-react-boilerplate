@@ -13,6 +13,7 @@ module.exports = {
       '.docksal'
     ],
     historyApiFallback: true,
+    port: '3000',
   },
   watchOptions: {
     poll: 1000
