@@ -1,3 +1,5 @@
+![React version](https://img.shields.io/github/package-json/dependency-version/kirstbew25/inv-react-boilerplate/react/main?filename=docroot%2Fpackage.json) ![React-dom version](https://img.shields.io/github/package-json/dependency-version/kirstbew25/inv-react-boilerplate/react-dom/main?filename=docroot%2Fpackage.json) ![React-router-dom version](https://img.shields.io/github/package-json/dependency-version/kirstbew25/inv-react-boilerplate/react-router-dom/main?filename=docroot%2Fpackage.json)
+
 # React, webpack and docksal boilerplate
 
 Mixture of create-react-app and frontend masters tutorial.
