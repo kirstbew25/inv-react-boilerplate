@@ -12,12 +12,12 @@ OR use git clone and run:
 
 `fin init`
 
-**Note:** Run npm from ./docroot
+**Note:** Run yarn from ./docroot
 
 ### Install node modules
 
-`fin run npm install`
+`fin run yarn install`
 
 ### Run development
 
-`fin run npm run start`
+`fin run yarn start`
