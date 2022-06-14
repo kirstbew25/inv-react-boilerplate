@@ -22,10 +22,11 @@ const App = () => {
   );
 };
 
-// Renders app. StrictMode enforces safe code/apis from react.
-ReactDOM.render(
+// Create a root.
+const root = ReactDOM.createRoot(document.getElementById('root'));
+// Render app to root.
+root.render(
   <React.StrictMode>
     <App />
-  </React.StrictMode>,
-  document.getElementById("root")
+  </React.StrictMode>
 );
